@@ -29,7 +29,8 @@
 ---
 
 ### 💥 실패 코드
-```python
+
+python
 N = input("숫자를 입력해주세요")
 n = int(N)
 
@@ -37,12 +38,12 @@ for i in range(1, n + 1):
     if i % 3 == 0 or i % 7 == 0:
         if i % 3 == 0 and i % 7 == 0:
             continue
-        print(i)```
+        print(i)
 
-###  ✅ 최종 코드
-```python
+---
 
-n = int(input("숫자를 입력하세요"))
+### ✅ 최종 코드03
+```n = int(input("숫자를 입력하세요"))
 
 for i in range(1, n + 1):
     if i % 3 == 0 and i % 7 == 0:
