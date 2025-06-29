@@ -1,6 +1,3 @@
-# python-coding-study-log
-My phython practice &amp; learning record
-
 ## 조건 필터링 개선 실습 – Day03
 
 #🚀오늘의 문제
@@ -33,6 +30,7 @@ for i in range (1, n+1):
         if i % 3 ==0 and i % 7==0:
             continue
         print(i)```
+
 
 ### ✅ 최종 코드
 ```python
