@@ -1,2 +1,2 @@
-# python-coding-daily-study-log
+# python-coding-study-log
 My phython practice &amp; learning record
